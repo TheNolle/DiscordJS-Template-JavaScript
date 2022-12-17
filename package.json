@@ -1,5 +1,8 @@
 {
   "author": "Nolly#0001",
+  "bugs": {
+    "url": "https://github.com/TheNolle/DiscordJS-Bot-Template/issues"
+  },
   "dependencies": {
     "ascii-table": "^0.0.9",
     "axios": "^0.27.2",
@@ -9,9 +12,14 @@
     "ms": "^2.1.3"
   },
   "description": "A Discord.js Bot Template with few commands inside already",
+  "homepage": "https://github.com/TheNolle/DiscordJS-Bot-Template#readme",
   "license": "MIT",
   "main": "bot.js",
   "name": "discordjs-bot-template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNolle/DiscordJS-Bot-Template.git"
+  },
   "scripts": {
     "dev": "nodemon .",
     "start": "node ."
